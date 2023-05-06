@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brice Blanchard
-- 💼 I'm in internship as a DevOps engineer
+- 💼 I'm in internship as a DataOps - DevOps engineer
 - 🎓 I'm studying at ETNA to get my Master degree as a Developer
 - 🌱 I’m interested in Automation, Data Vizualisation and EcoConception
 - 📧 You can contact me at brice.blanchard@hotmail.fr
